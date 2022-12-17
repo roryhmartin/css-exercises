@@ -1,0 +1,19 @@
+.redBG {
+    background-color: #b53b3b;
+    font-family: Verdana, "DejaVu sans", Sans-serif;
+}
+
+#numberTwo {
+    font-size: 32px;
+    color: #0000ff;
+}
+
+.redBG.largeFont {
+    font-weight: 700;   
+}
+
+#numberFour {
+    background-color: #7fff00;
+    font-size: 24px;
+    font-weight: 700;
+}
